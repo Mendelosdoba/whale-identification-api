@@ -27,8 +27,13 @@ How It Works?
 
 The application uses two convolutional neural network models:
 
-Cetacean detection model: Classifies the uploaded image as cetacean or non-cetacean.
-Species identification model: Identifies the most likely whale, dolphin, or porpoise species.
+Cetacean detection model:
+
+Classifies the uploaded image as cetacean or non-cetacean.
+
+Species identification model:
+
+Identifies the most likely whale, dolphin, or porpoise species.
 Running the Application
 1. Install the required packages
 pip install fastapi uvicorn tensorflow pillow python-multipart

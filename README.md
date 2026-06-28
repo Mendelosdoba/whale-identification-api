@@ -16,6 +16,7 @@ TensorFlow
 Keras
 ResNet50
 FastAPI
+
 Run the App
 
 Install the required packages:
@@ -34,4 +35,4 @@ Upload an image and click Identify Animal.
 
 Note
 
-The predictions may not always be correct, especially when an image is blurry, distant, or shows an animal that was not included in the training data.
+The predictions may not always be correct, especially when an image is blurry or distant.

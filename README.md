@@ -35,7 +35,7 @@ Species identification model:
 
 Identifies the most likely whale, dolphin, or porpoise species.
 
-Running the Application
+Running the Application:
 1. Install the required packages
 pip install fastapi uvicorn tensorflow pillow python-multipart
 2. Start the application
@@ -48,7 +48,7 @@ http://127.0.0.1:8000
 
 Upload an image and click Identify Animal to receive a prediction and confidence score.
 
-Limitations
+Limitations:
 
 Predictions may be less accurate when images are blurry, distant, partially obstructed, or taken from unusual angles.
 

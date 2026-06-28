@@ -5,6 +5,7 @@ A computer vision application that analyzes an uploaded image and identifies whe
 The application uses a two-stage prediction system. The first model determines whether the uploaded image contains a cetacean. If a cetacean is detected, the second model predicts the most likely species.
 
 Features:
+
 Upload an image through a simple web interface.
 
 Detect whether the image contains a whale, dolphin, or porpoise.

@@ -6,10 +6,15 @@ The application uses a two-stage prediction system. The first model determines w
 
 Features:
 Upload an image through a simple web interface.
+
 Detect whether the image contains a whale, dolphin, or porpoise.
+
 Reject images that do not appear to contain a cetacean.
+
 Predict the most likely cetacean species.
+
 Display prediction confidence scores.
+
 Technologies:
 Python
 TensorFlow / Keras

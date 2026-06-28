@@ -9,7 +9,8 @@ Upload an image through a simple webpage
 Detect whether the image contains a cetacean
 Predict the most likely species
 Show confidence percentages
-Technologies
+
+Technologies:
 Python
 TensorFlow
 Keras

@@ -34,6 +34,7 @@ Classifies the uploaded image as cetacean or non-cetacean.
 Species identification model:
 
 Identifies the most likely whale, dolphin, or porpoise species.
+
 Running the Application
 1. Install the required packages
 pip install fastapi uvicorn tensorflow pillow python-multipart
